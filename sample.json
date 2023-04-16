@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "type": "address",
+      "id": 1,
+      "address": "Baker street, 222"
+    },
+    {
+      "type": "user",
+      "id": 1,
+      "firstname": "Bean",
+      "lastname": "Dremen"
+    },
+    {
+      "type": "payment",
+      "id": 1,
+      "amount": 2
+    },
+    {
+      "type": "payment",
+      "id": 2,
+      "amount": 3
+    },
+    {
+      "type": "user",
+      "id": 2,
+      "firstname": "Bob",
+      "lastname": "Odenkirk"
+    }
+  ]
+}
